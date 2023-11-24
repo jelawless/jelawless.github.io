@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: John Lawless # the main title
 
-tagline: Website Test # it will display as the sub-title
+tagline: Portfolio # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
