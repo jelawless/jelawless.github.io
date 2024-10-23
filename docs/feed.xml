@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
   <title>John Lawless</title>
-  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-10-23T05:56:56-05:00</updated>
+  <subtitle>Explore my projects highlighting my creativity and problem-solving skills.</subtitle>
+  <updated>2024-10-23T06:09:25-05:00</updated>
   <author>
     <name>John</name>
     <uri>http://localhost:4000/</uri>
