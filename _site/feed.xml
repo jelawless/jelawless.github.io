@@ -1,0 +1,83 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>John Lawless</title>
+  <subtitle>Explore my projects highlighting my creativity and problem-solving skills.</subtitle>
+  <updated>2026-02-21T13:58:59-06:00</updated>
+  <author>
+    <name>John</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2026 John </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>PCB StreamDeck</title>
+    <link href="http://localhost:4000/posts/StreamDeck/" rel="alternate" type="text/html" title="PCB StreamDeck" />
+    <published>2024-04-03T21:33:00-06:00</published>
+  
+    <updated>2025-05-18T17:03:27-06:00</updated>
+  
+    <id>http://localhost:4000/posts/StreamDeck/</id>
+    <content src="http://localhost:4000/posts/StreamDeck/" />
+    <author>
+      <name>john</name>
+    </author>
+
+  
+    
+    <category term="Electronics Project" />
+    
+    <category term="PCBs" />
+    
+    <category term="User Inerface Design" />
+    
+    <category term="Prototyping and Development" />
+    
+  
+
+  <summary>This custom PCB utalizes the Raspberry Pi Pico microcontroller and CircuitPython to create a mini DIY version of the Elgato Stream Deck.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Modified Ender 3 with Klipper - 3x Speed Improvement Case Study</title>
+    <link href="http://localhost:4000/posts/Klipper/" rel="alternate" type="text/html" title="Modified Ender 3 with Klipper - 3x Speed Improvement Case Study" />
+    <published>2023-05-09T21:33:00-06:00</published>
+  
+    <updated>2025-10-01T22:05:00-06:00</updated>
+  
+    <id>http://localhost:4000/posts/Klipper/</id>
+    <content src="http://localhost:4000/posts/Klipper/" />
+    <author>
+      <name>john</name>
+    </author>
+
+  
+    
+    <category term="3D Printing" />
+    
+    <category term="3D Printer Upgrades" />
+    
+    <category term="Ender 3 Mods" />
+    
+    <category term="Klipper Firmware" />
+    
+  
+
+  <summary>Complete transformation of an Ender 3 3D printer achieving 3x faster print speeds with improved quality through strategic hardware upgrades and Klipper firmware optimization.</summary>
+
+  </entry>
+
+</feed>
+
+
