@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>John Lawless</title>
   <subtitle>Explore my projects highlighting my creativity and problem-solving skills.</subtitle>
-  <updated>2026-02-21T13:58:59-06:00</updated>
+  <updated>2026-02-21T22:42:06-06:00</updated>
   <author>
     <name>John</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/StreamDeck/" rel="alternate" type="text/html" title="PCB StreamDeck" />
     <published>2024-04-03T21:33:00-06:00</published>
   
-    <updated>2025-05-18T17:03:27-06:00</updated>
+    <updated>2026-02-21T22:38:44-06:00</updated>
   
     <id>http://localhost:4000/posts/StreamDeck/</id>
     <content src="http://localhost:4000/posts/StreamDeck/" />
@@ -54,7 +54,7 @@
     <link href="http://localhost:4000/posts/Klipper/" rel="alternate" type="text/html" title="Modified Ender 3 with Klipper - 3x Speed Improvement Case Study" />
     <published>2023-05-09T21:33:00-06:00</published>
   
-    <updated>2025-10-01T22:05:00-06:00</updated>
+    <updated>2026-02-21T22:03:00-06:00</updated>
   
     <id>http://localhost:4000/posts/Klipper/</id>
     <content src="http://localhost:4000/posts/Klipper/" />

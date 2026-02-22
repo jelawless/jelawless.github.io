@@ -6,12 +6,12 @@ date: 2024-04-4 11:33:00 +0800
 categories: [Electronics Project, PCBs, User Inerface Design, Prototyping and Development]
 tags: [Microcontroller, Programming, CircuitPython, Hardware Prototyping, Raspberry Pi Pico, DIY Project]
 pin: true
-image: /pictures/StreamDeck/StreamDeck.jpg 
+image: /pictures/pico/StreamDeck.jpg 
 
 
 ---
 
-![Desktop View](/pictures/pico/pico.gif)
+![Desktop View](/pictures/pico/pico.gif){: width="300" .w-30 .right}
 
 ## Intro
 
