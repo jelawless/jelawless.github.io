@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>John Lawless</title>
   <subtitle>Explore my projects highlighting my creativity and problem-solving skills.</subtitle>
-  <updated>2026-02-21T22:42:06-06:00</updated>
+  <updated>2026-02-23T23:28:13-06:00</updated>
   <author>
     <name>John</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/StreamDeck/" rel="alternate" type="text/html" title="PCB StreamDeck" />
     <published>2024-04-03T21:33:00-06:00</published>
   
-    <updated>2026-02-21T22:38:44-06:00</updated>
+    <updated>2026-02-21T22:42:31-06:00</updated>
   
     <id>http://localhost:4000/posts/StreamDeck/</id>
     <content src="http://localhost:4000/posts/StreamDeck/" />
