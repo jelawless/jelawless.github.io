@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://jelawless.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>John Lawless</title>
   <subtitle>Explore my projects highlighting my creativity and problem-solving skills.</subtitle>
-  <updated>2026-06-17T04:34:14-05:00</updated>
+  <updated>2026-06-19T11:45:30-05:00</updated>
   <author>
     <name>John</name>
-    <uri>https://jelawless.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://jelawless.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://jelawless.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2026 John </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,44 @@
 
   
   <entry>
+    <title>Self-Hosted AI Coding Agent on a Tesla V100 Server GPU — VRAM Optimization &amp; Speculative Decoding</title>
+    <link href="http://localhost:4000/posts/Tesla-V100-AI-Coding-Agent/" rel="alternate" type="text/html" title="Self-Hosted AI Coding Agent on a Tesla V100 Server GPU — VRAM Optimization &amp;amp; Speculative Decoding" />
+    <published>2026-06-18T22:33:00-05:00</published>
+  
+    <updated>2026-06-18T22:33:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Tesla-V100-AI-Coding-Agent/</id>
+    <content src="http://localhost:4000/posts/Tesla-V100-AI-Coding-Agent/" />
+    <author>
+      <name>john</name>
+    </author>
+
+  
+    
+    <category term="AI" />
+    
+    <category term="Self-Hosting" />
+    
+    <category term="LLMs" />
+    
+    <category term="GPU" />
+    
+  
+
+  <summary>Converting a Tesla V100 server GPU to PCIE for a self-hosted AI coding agent using llama.cpp, with VRAM optimization, quantization, and speculative decoding to achieve 100 tokens/s at just 100W.</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>LeRobot SO-101 Dual-Arm Platform - Generative Design &amp; RL Simulation Case Study</title>
-    <link href="https://jelawless.github.io/posts/LeRobot/" rel="alternate" type="text/html" title="LeRobot SO-101 Dual-Arm Platform - Generative Design &amp;amp; RL Simulation Case Study" />
+    <link href="http://localhost:4000/posts/LeRobot/" rel="alternate" type="text/html" title="LeRobot SO-101 Dual-Arm Platform - Generative Design &amp;amp; RL Simulation Case Study" />
     <published>2026-06-06T22:33:00-05:00</published>
   
     <updated>2026-06-06T22:33:00-05:00</updated>
   
-    <id>https://jelawless.github.io/posts/LeRobot/</id>
-    <content src="https://jelawless.github.io/posts/LeRobot/" />
+    <id>http://localhost:4000/posts/LeRobot/</id>
+    <content src="http://localhost:4000/posts/LeRobot/" />
     <author>
       <name>john</name>
     </author>
@@ -51,13 +81,13 @@
   
   <entry>
     <title>Biohacking Implants - NFC &amp; RFID Hand Implant Case Study</title>
-    <link href="https://jelawless.github.io/posts/Biohacking-Implants/" rel="alternate" type="text/html" title="Biohacking Implants - NFC &amp;amp; RFID Hand Implant Case Study" />
+    <link href="http://localhost:4000/posts/Biohacking-Implants/" rel="alternate" type="text/html" title="Biohacking Implants - NFC &amp;amp; RFID Hand Implant Case Study" />
     <published>2024-10-22T23:00:00-05:00</published>
   
     <updated>2024-10-22T23:00:00-05:00</updated>
   
-    <id>https://jelawless.github.io/posts/Biohacking-Implants/</id>
-    <content src="https://jelawless.github.io/posts/Biohacking-Implants/" />
+    <id>http://localhost:4000/posts/Biohacking-Implants/</id>
+    <content src="http://localhost:4000/posts/Biohacking-Implants/" />
     <author>
       <name>john</name>
     </author>
@@ -81,13 +111,13 @@
   
   <entry>
     <title>PCB StreamDeck</title>
-    <link href="https://jelawless.github.io/posts/StreamDeck/" rel="alternate" type="text/html" title="PCB StreamDeck" />
+    <link href="http://localhost:4000/posts/StreamDeck/" rel="alternate" type="text/html" title="PCB StreamDeck" />
     <published>2024-04-03T22:33:00-05:00</published>
   
     <updated>2026-02-21T23:42:31-05:00</updated>
   
-    <id>https://jelawless.github.io/posts/StreamDeck/</id>
-    <content src="https://jelawless.github.io/posts/StreamDeck/" />
+    <id>http://localhost:4000/posts/StreamDeck/</id>
+    <content src="http://localhost:4000/posts/StreamDeck/" />
     <author>
       <name>john</name>
     </author>
@@ -111,13 +141,13 @@
   
   <entry>
     <title>Modified Ender 3 with Klipper - 3x Speed Improvement Case Study</title>
-    <link href="https://jelawless.github.io/posts/Klipper/" rel="alternate" type="text/html" title="Modified Ender 3 with Klipper - 3x Speed Improvement Case Study" />
+    <link href="http://localhost:4000/posts/Klipper/" rel="alternate" type="text/html" title="Modified Ender 3 with Klipper - 3x Speed Improvement Case Study" />
     <published>2023-05-09T22:33:00-05:00</published>
   
     <updated>2026-02-21T23:03:00-05:00</updated>
   
-    <id>https://jelawless.github.io/posts/Klipper/</id>
-    <content src="https://jelawless.github.io/posts/Klipper/" />
+    <id>http://localhost:4000/posts/Klipper/</id>
+    <content src="http://localhost:4000/posts/Klipper/" />
     <author>
       <name>john</name>
     </author>
